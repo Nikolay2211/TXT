@@ -1,0 +1,2 @@
+txt
+	skill1:"Being familar with tools for bug tracking", skill2:"understanding certain programming languages", skill3:"attention to detail", skill4:"problem-solning".

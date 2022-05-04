@@ -1,0 +1,4 @@
+txt
+	film:"dumb and dumber", serial:"elementary", food:"borsh", seson:"summer", country:"poland"
+
+
